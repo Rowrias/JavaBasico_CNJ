@@ -5,7 +5,7 @@ package TiposDeDados;
  *Volume do cilíndro: V = pi * r² * h
  */
 
-public class Exemplo6 {
+public class Exemplo06 {
 	static int baseMaior = 7, baseMenor = 5, h = 3, areat;
 	
 	final static float PI = 3.14f;

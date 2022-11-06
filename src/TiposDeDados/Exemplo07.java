@@ -1,6 +1,6 @@
 package TiposDeDados;
 
-public class Exemplo7 {
+public class Exemplo07 {
 	static String nome = "Rodrigo";
 	static String nomeMae = "Silvana";
 	static String disciplina = "Fisíca";

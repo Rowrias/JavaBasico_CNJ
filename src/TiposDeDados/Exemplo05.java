@@ -1,6 +1,6 @@
 package TiposDeDados;
 
-public class Exemplo5 {
+public class Exemplo05 {
 	static int n1 = 8;
 	static int n2 = 8;
 	static int n3 = 10;

@@ -4,7 +4,7 @@ package TiposDeDados;
 			 * @author Rowrias
 			 */
 
-public class Exemplo4 {
+public class Exemplo04 {
 	static int n1 = 4, n2 = 7, n3 = 8, n4 = 9;
 			//Variávieis referente a nota de um aluno
 

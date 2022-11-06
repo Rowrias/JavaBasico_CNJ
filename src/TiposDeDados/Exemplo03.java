@@ -1,6 +1,6 @@
 package TiposDeDados;
 
-public class Exemplo3 {
+public class Exemplo03 {
 	static int idadeFilho = 18, idadeMae = 48, maiorIdade = 18, Maioridade = 18;
 	static float n1 = 4.5f, n2 = 5.6f, n3 = 7.5f, n4 = 9.8f;
 	final double PI = 3.14;

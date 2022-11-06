@@ -1,6 +1,6 @@
 package TiposDeDados;
 
-public class Exemplo2 {
+public class Exemplo02 {
 	static int valor1 = 10, valor2 = 15, n1 = 2;
 	static int teste1 = 5;
 	static float nota1 = 10;
