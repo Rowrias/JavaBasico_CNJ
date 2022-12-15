@@ -1,4 +1,4 @@
-package Modulo16_;
+package Modulo16_Exceptions;
 
 public class Aula02_Finally02 {
 
