@@ -1,4 +1,4 @@
-package Modulo18_;
+package Modulo18_Interface;
 
 interface Empresa2{	// Declaração da interface
 	// Métodos
